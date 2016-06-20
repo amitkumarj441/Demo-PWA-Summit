@@ -1,4 +1,4 @@
-### Demo-PWA-Summit
+# Demo-PWA-Summit
 A simple progressive web application which works in offline and has customized features.
 
 ### What is a Progressive Web App?
